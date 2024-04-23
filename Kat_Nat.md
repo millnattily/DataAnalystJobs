@@ -23,3 +23,4 @@ Strong understanding of technical requirements related to semantics data managem
 |Requirements are clear   |     |
 |---|---|
 |Does it align with lecture job description? | |
+kjfaölksjdfö
